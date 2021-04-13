@@ -1,0 +1,1980 @@
+fileFormatVersion: 2
+guid: e141aef02cbace54dad8219bb857e236
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7673041268309160768
+    second: PrototypeHero_Gun_0
+  - first:
+      213: 8874552513112843600
+    second: PrototypeHero_Gun_1
+  - first:
+      213: -2591853811626268278
+    second: PrototypeHero_Gun_2
+  - first:
+      213: -7802580150603237492
+    second: PrototypeHero_Gun_3
+  - first:
+      213: 2641325770100139390
+    second: PrototypeHero_Gun_4
+  - first:
+      213: 5418600414932387839
+    second: PrototypeHero_Gun_5
+  - first:
+      213: -6873867259915083617
+    second: PrototypeHero_Gun_6
+  - first:
+      213: 1965464140229455195
+    second: PrototypeHero_Gun_7
+  - first:
+      213: -5014181941077819288
+    second: PrototypeHero_Gun_8
+  - first:
+      213: 412363395775923926
+    second: PrototypeHero_Gun_9
+  - first:
+      213: -4556294567215704765
+    second: PrototypeHero_Gun_10
+  - first:
+      213: -2296871870590706763
+    second: PrototypeHero_Gun_11
+  - first:
+      213: 6542347790400031790
+    second: PrototypeHero_Gun_12
+  - first:
+      213: -2659080759690316967
+    second: PrototypeHero_Gun_13
+  - first:
+      213: 1992568000910919863
+    second: PrototypeHero_Gun_14
+  - first:
+      213: 1356008835500009449
+    second: PrototypeHero_Gun_15
+  - first:
+      213: 2856554585190968537
+    second: PrototypeHero_Gun_16
+  - first:
+      213: -5389373029132630798
+    second: PrototypeHero_Gun_17
+  - first:
+      213: -5074781087276367413
+    second: PrototypeHero_Gun_18
+  - first:
+      213: -8518325315535316840
+    second: PrototypeHero_Gun_19
+  - first:
+      213: -3003157633501394917
+    second: PrototypeHero_Gun_20
+  - first:
+      213: -2982622897480011402
+    second: PrototypeHero_Gun_21
+  - first:
+      213: 2558662319371005612
+    second: PrototypeHero_Gun_22
+  - first:
+      213: -1088838104228760927
+    second: PrototypeHero_Gun_23
+  - first:
+      213: 7440234673492732896
+    second: PrototypeHero_Gun_27
+  - first:
+      213: -4540632105469982696
+    second: PrototypeHero_Gun_28
+  - first:
+      213: -7192742967696372563
+    second: PrototypeHero_Gun_29
+  - first:
+      213: -3170994793127479654
+    second: PrototypeHero_Gun_30
+  - first:
+      213: 5995447303962552763
+    second: PrototypeHero_Gun_38
+  - first:
+      213: 4333572586852823841
+    second: PrototypeHero_Gun_39
+  - first:
+      213: -621517775294864682
+    second: PrototypeHero_Gun_40
+  - first:
+      213: 5828622406444419392
+    second: PrototypeHero_Gun_41
+  - first:
+      213: 2302221932120757049
+    second: PrototypeHero_Gun_42
+  - first:
+      213: -8988865968956778395
+    second: PrototypeHero_Gun_43
+  - first:
+      213: -8491968248105006899
+    second: PrototypeHero_Gun_44
+  - first:
+      213: -7451480924015582504
+    second: PrototypeHero_Gun_45
+  - first:
+      213: -3473005730512830602
+    second: PrototypeHero_Gun_46
+  - first:
+      213: 7229786389630941384
+    second: PrototypeHero_Gun_47
+  - first:
+      213: -911619016611145459
+    second: PrototypeHero_Gun_48
+  - first:
+      213: -3031776968727175396
+    second: PrototypeHero_Gun_49
+  - first:
+      213: -3240813081922583683
+    second: PrototypeHero_Gun_50
+  - first:
+      213: 4250876683267955968
+    second: PrototypeHero_Gun_51
+  - first:
+      213: 2968937143041048825
+    second: PrototypeHero_Gun_52
+  - first:
+      213: -5920454531082906990
+    second: PrototypeHero_Gun_53
+  - first:
+      213: -5561522023211141980
+    second: PrototypeHero_Gun_54
+  - first:
+      213: 3373982747231813277
+    second: PrototypeHero_Gun_55
+  - first:
+      213: 7803038910249487735
+    second: PrototypeHero_Gun_56
+  - first:
+      213: 2377435886266336006
+    second: PrototypeHero_Gun_57
+  - first:
+      213: -6140362115931771225
+    second: PrototypeHero_Gun_58
+  - first:
+      213: -7929648428510757180
+    second: PrototypeHero_Gun_59
+  - first:
+      213: 2635139657846170857
+    second: PrototypeHero_Gun_60
+  - first:
+      213: 4111631708584236070
+    second: PrototypeHero_Gun_61
+  - first:
+      213: 6743275753499899125
+    second: PrototypeHero_Gun_62
+  - first:
+      213: -7179683880347358804
+    second: PrototypeHero_Gun_63
+  - first:
+      213: -6514031837042841243
+    second: PrototypeHero_Gun_64
+  - first:
+      213: -715068145441187872
+    second: PrototypeHero_Gun_65
+  - first:
+      213: 6639050486872216343
+    second: PrototypeHero_Gun_66
+  - first:
+      213: -8011911089442888727
+    second: PrototypeHero_Gun_67
+  - first:
+      213: 1568876061368452762
+    second: PrototypeHero_Gun_68
+  - first:
+      213: -8006846649520387655
+    second: PrototypeHero_Gun_69
+  - first:
+      213: -4984096973183084007
+    second: PrototypeHero_Gun_70
+  - first:
+      213: 5993560211827602827
+    second: PrototypeHero_Gun_71
+  - first:
+      213: -774661839730166477
+    second: PrototypeHero_Gun_72
+  - first:
+      213: -1162662658060902234
+    second: PrototypeHero_Gun_73
+  - first:
+      213: 7658990893573904808
+    second: PrototypeHero_Gun_74
+  - first:
+      213: -2388283515704090711
+    second: PrototypeHero_Gun_75
+  - first:
+      213: -2893301666649528003
+    second: PrototypeHero_Gun_76
+  - first:
+      213: -4039953307113112579
+    second: PrototypeHero_Gun_77
+  - first:
+      213: -7147602981664053060
+    second: PrototypeHero_Gun_86
+  - first:
+      213: 5098530640441731272
+    second: PrototypeHero_Gun_87
+  - first:
+      213: 1812206876819096438
+    second: PrototypeHero_Gun_88
+  - first:
+      213: -7404808904698449911
+    second: PrototypeHero_Gun_89
+  - first:
+      213: 5267750207370163931
+    second: PrototypeHero_Gun_90
+  - first:
+      213: -6238991882319482950
+    second: PrototypeHero_Gun_91
+  - first:
+      213: 3961252325494711496
+    second: PrototypeHero_Gun_108
+  - first:
+      213: -8146681119322349904
+    second: PrototypeHero_Gun_109
+  - first:
+      213: 5440524062623678461
+    second: PrototypeHero_Gun_110
+  - first:
+      213: 8647393340327615571
+    second: PrototypeHero_Gun_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1042
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc0587be91e38590800000000000000
+      internalID: -7673041268309160768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1042
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05524a4cd7eb82b70800000000000000
+      internalID: 8874552513112843600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1042
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a892648c0b2e70cd0800000000000000
+      internalID: -2591853811626268278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1042
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87b7cf51baa7b390800000000000000
+      internalID: -7802580150603237492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1042
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7567e62bcfd7a420800000000000000
+      internalID: 2641325770100139390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1042
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff744df4e5cb23b40800000000000000
+      internalID: 5418600414932387839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1042
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90e29b752e1b90a0800000000000000
+      internalID: -6873867259915083617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_7
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1042
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d2529d83bb64b10800000000000000
+      internalID: 1965464140229455195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 962
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860c0e2471c0a6ab0800000000000000
+      internalID: -5014181941077819288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 963
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6099bd25209b500800000000000000
+      internalID: 412363395775923926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 962
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345d01d3b3ac4c0c0800000000000000
+      internalID: -4556294567215704765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 962
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb9adaf33fdf10e0800000000000000
+      internalID: -2296871870590706763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 962
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c0bdb07a61bca50800000000000000
+      internalID: 6542347790400031790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_13
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 963
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9533591332c091bd0800000000000000
+      internalID: -2659080759690316967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 962
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b80b1d2a0607ab10800000000000000
+      internalID: 1992568000910919863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 962
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7e448f9d281d210800000000000000
+      internalID: 1356008835500009449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 882
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc22d3b24584a720800000000000000
+      internalID: 2856554585190968537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 882
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48a7cb8c91535b0800000000000000
+      internalID: -5389373029132630798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 882
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1850c0d71c299b0800000000000000
+      internalID: -5074781087276367413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 882
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898dc4ee144d8c980800000000000000
+      internalID: -8518325315535316840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_20
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 884
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1885a23b04a256d0800000000000000
+      internalID: -3003157633501394917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_21
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 887
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671f1c007489b96d0800000000000000
+      internalID: -2982622897480011402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_22
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 887
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae2946b2d1328320800000000000000
+      internalID: 2558662319371005612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_23
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 882
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2f88b538ba3e0f0800000000000000
+      internalID: -1088838104228760927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 802
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb2417f306014760800000000000000
+      internalID: 7440234673492732896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 802
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8184ab9482f6cf0c0800000000000000
+      internalID: -4540632105469982696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_29
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 802
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacc4c1316e3e2c90800000000000000
+      internalID: -7192742967696372563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 802
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96f50b490d5ef3d0800000000000000
+      internalID: -3170994793127479654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_38
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 722
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9e246ce8b143350800000000000000
+      internalID: 5995447303962552763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 722
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123bbb7be41f32c30800000000000000
+      internalID: 4333572586852823841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_40
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 722
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d265f550ecef57f0800000000000000
+      internalID: -621517775294864682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_41
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 722
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0498002823d63e050800000000000000
+      internalID: 5828622406444419392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 642
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933db2a46a223ff10800000000000000
+      internalID: 2302221932120757049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_43
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 642
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568dbbab602214380800000000000000
+      internalID: -8988865968956778395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_44
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 642
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc80ec7eed7762a80800000000000000
+      internalID: -8491968248105006899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_45
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 642
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2a3794495079890800000000000000
+      internalID: -7451480924015582504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_46
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 679
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ff2e950b76dcfc0800000000000000
+      internalID: -3473005730512830602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_47
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 642
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8f7e39a6c555460800000000000000
+      internalID: 7229786389630941384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_48
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 642
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09d66895574953f0800000000000000
+      internalID: -911619016611145459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_49
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 642
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f5ec4f8e6fce5d0800000000000000
+      internalID: -3031776968727175396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_50
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 640
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73c09c2ca15603d0800000000000000
+      internalID: -3240813081922583683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 558
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d5d2242d52efa30800000000000000
+      internalID: 4250876683267955968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 559
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0cc6bf998c33920800000000000000
+      internalID: 2968937143041048825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 560
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29293fdc8f156dda0800000000000000
+      internalID: -5920454531082906990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 560
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4fcf3af2181d2b0800000000000000
+      internalID: -5561522023211141980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_55
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 560
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e7c07be6bc2de20800000000000000
+      internalID: 3373982747231813277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_56
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 560
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc8fdeb86f94c60800000000000000
+      internalID: 7803038910249487735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_57
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 560
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603cb25a7595ef020800000000000000
+      internalID: 2377435886266336006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_58
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 482
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeee97403d09caa0800000000000000
+      internalID: -6140362115931771225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 478
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceb1e074ca34f190800000000000000
+      internalID: -7929648428510757180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 478
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e42777ae85e19420800000000000000
+      internalID: 2635139657846170857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_61
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 482
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624556d21437f0930800000000000000
+      internalID: 4111631708584236070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_62
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 481
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4bdd5029de49d50800000000000000
+      internalID: 6743275753499899125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_63
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 482
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca92c48ec83ac5c90800000000000000
+      internalID: -7179683880347358804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_64
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 481
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569e9799e828995a0800000000000000
+      internalID: -6514031837042841243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_65
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 480
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7d7c07f419316f0800000000000000
+      internalID: -715068145441187872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_66
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 400
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71317eb1e35a22c50800000000000000
+      internalID: 6639050486872216343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_67
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 400
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e36eb52059ffc090800000000000000
+      internalID: -8011911089442888727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_68
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 401
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a960b7e2774c5c510800000000000000
+      internalID: 1568876061368452762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_69
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 414
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b98f44f467f1e090800000000000000
+      internalID: -8006846649520387655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_70
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 418
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a9253b53ee4dab0800000000000000
+      internalID: -4984096973183084007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_71
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 437
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8536e5e1476d2350800000000000000
+      internalID: 5993560211827602827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_72
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 447
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33535dd3929df35f0800000000000000
+      internalID: -774661839730166477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_73
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 443
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a02ba8f8746ddfe0800000000000000
+      internalID: -1162662658060902234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_74
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 322
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a99c6d73a33a4a60800000000000000
+      internalID: 7658990893573904808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_75
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 319
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af598fcbcc1bded0800000000000000
+      internalID: -2388283515704090711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_76
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 322
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d392f4ba67de8d7d0800000000000000
+      internalID: -2893301666649528003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_77
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 322
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbbb5c2fd33fe7c0800000000000000
+      internalID: -4039953307113112579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_86
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 249
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8246235fc9ecc90800000000000000
+      internalID: -7147602981664053060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_87
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 249
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c869f3ba9e91c640800000000000000
+      internalID: 5098530640441731272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_88
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 242
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67382509d80462910800000000000000
+      internalID: 1812206876819096438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_89
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 242
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900bcc59885dc3990800000000000000
+      internalID: -7404808904698449911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_90
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 242
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6f9c367eeca1940800000000000000
+      internalID: 5267750207370163931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_91
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 242
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf2dc940f5aa69a0800000000000000
+      internalID: -6238991882319482950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_108
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 82
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c46dce900239f630800000000000000
+      internalID: 3961252325494711496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_109
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 82
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bed8685fac21fe80800000000000000
+      internalID: -8146681119322349904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_110
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 82
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff36a05fcf908b40800000000000000
+      internalID: 5440524062623678461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_Gun_111
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c5e4b5d66b10870800000000000000
+      internalID: 8647393340327615571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
